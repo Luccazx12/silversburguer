@@ -19,7 +19,7 @@ Fizemos tudo isso após criar um WireFrame do projeto através do Draw.io para p
 &nbsp;
  
  
- ## **Wireframe**
+ ##**Wireframe**
 
 ### Página Inicial
 ![Image](https://raw.githubusercontent.com/Luccazx12/silversburguer/main/silvers_burguer/Wireframe/Wireframe_SilversBurguer_PagInicial.jpg)
@@ -32,7 +32,7 @@ Fizemos tudo isso após criar um WireFrame do projeto através do Draw.io para p
 &nbsp;
 
 
-## **Layout da página codificada em HTML5 e CSS3, no navegador**
+##**Layout da página codificada em HTML5 e CSS3, no navegador**
 
 ![Image](https://raw.githubusercontent.com/Luccazx12/silversburguer/main/silvers_burguer/Imagens/layoutnav.png)
 
