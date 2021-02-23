@@ -22,11 +22,11 @@ Fizemos tudo isso após criar um WireFrame do projeto através do Draw.io para p
  ## **Wireframe**
 
 ### Página Inicial
-![Image](https://github.com/Luccazx12/silversburguer/blob/main/silvers_burguer/Wireframe/Wireframe_SilversBurguer_PagInicial.jpg)
+![Image](https://raw.githubusercontent.com/Luccazx12/silversburguer/main/silvers_burguer/Wireframe/Wireframe_SilversBurguer_PagInicial.jpg)
 
 
  ### Cardápio
-![Image](https://github.com/Luccazx12/silversburguer/blob/main/silvers_burguer/Wireframe/Wireframe_SilversBurguer_Cardapio.jpg)
+![Image](https://raw.githubusercontent.com/Luccazx12/silversburguer/main/silvers_burguer/Wireframe/Wireframe_SilversBurguer_Cardapio.jpg)
 
 
 &nbsp;
@@ -34,7 +34,7 @@ Fizemos tudo isso após criar um WireFrame do projeto através do Draw.io para p
 
 ## **Layout da página codificada em HTML5 e CSS3, no navegador**
 
-![Image](https://github.com/Luccazx12/silversburguer/blob/main/silvers_burguer/Imagens/layoutnav.png)
+![Image](https://raw.githubusercontent.com/Luccazx12/silversburguer/main/silvers_burguer/Imagens/layoutnav.png)
 
 
 &nbsp;
@@ -42,7 +42,7 @@ Fizemos tudo isso após criar um WireFrame do projeto através do Draw.io para p
 
 ## **Logo da Silvers Burguer**
 
-![Image](https://github.com/Luccazx12/silversburguer/blob/main/silvers_burguer/Imagens/LogoSB.png)
+![Image](https://raw.githubusercontent.com/Luccazx12/silversburguer/main/silvers_burguer/Imagens/LogoSB.png)
 
 
 &nbsp;
@@ -56,4 +56,4 @@ Fizemos tudo isso após criar um WireFrame do projeto através do Draw.io para p
 &nbsp;
 
 
-![Image](https://github.com/Luccazx12/silversburguer/blob/main/silvers_burguer/Imagens/paleta2.png)
+![Image](https://raw.githubusercontent.com/Luccazx12/silversburguer/main/silvers_burguer/Imagens/paleta2.png)
