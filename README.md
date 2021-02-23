@@ -50,7 +50,7 @@ Fizemos tudo isso após criar um WireFrame do projeto através do Draw.io para p
 
 ## **Paleta de cores usando o [Adobe Color](https://color.adobe.com/pt/).**
 
-![Image](https://github.com/Luccazx12/silversburguer/blob/main/silvers_burguer/Imagens/paleta.png)
+![Image](https://raw.githubusercontent.com/Luccazx12/silversburguer/main/silvers_burguer/Imagens/paleta.png)
 
 
 &nbsp;
