@@ -2,7 +2,7 @@
 
 Trabalho Acadêmico da matéria Lima realizado em grupo para atribuir nota ao primeiro semestre do Curso Técnico de Desenvolvimento de Sistemas do SENAI.
 
-**Site:** [**https://luccazx12.github.io/silversburguer/silvers\_burguer/**](https://luccazx12.github.io/silversburguer/silvers_burguer/)
+
 
 &nbsp;
 
@@ -15,7 +15,7 @@ Para compor os elementos do site, colocamos um carrossel e um carrinho de compra
 
 Além disso, utilizamos o Adobe color para definir as cores do site, principalmente do footer e da div da direita do cardápio. Na verdade queriamos algo preto e branco ou o mais simples possível em questão de cores, por isso pegamos algo monocromático, aplicamos no css e utilizamos as tags disponibilizadas nos elementos do site.
 Fizemos tudo isso após criar um WireFrame do projeto através do Draw.io para projetar e planejar corretamente o design e estrutura de nosso site.
-
+**Site:** [**https://luccazx12.github.io/silversburguer/silvers\_burguer/**](https://luccazx12.github.io/silversburguer/silvers_burguer/)
 
 
 
