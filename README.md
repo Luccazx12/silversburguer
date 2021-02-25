@@ -1,9 +1,9 @@
 # silversburguer
-Trabalho Acadêmico da matéria Lima realizado em grupo para atribuir nota ao primeiro semestre do Curso Técnico de Desenvolvimento de Sistemas do Senai.
+Trabalho Acadêmico da matéria Lima realizado em grupo para atribuir nota ao primeiro semestre do Curso Técnico de Desenvolvimento de Sistemas do SENAI.
 
 **Site:** [**https://luccazx12.github.io/silversburguer/silvers\_burguer/**](https://luccazx12.github.io/silversburguer/silvers_burguer/)
 
-**Atividade Solicitada por: Professor Danilo da Turma 1DM do Senai.**
+**Atividade Solicitada por: Professor Danilo da Turma 1DM do SENAI.**
 
 # **Silvers Burguer**
 Desenvolvemos em conjunto o site estático de uma hamburgueria, utilizando do html, css e do javascript para tal.
