@@ -1,11 +1,10 @@
-# silversburguer
+# **Silvers Burguer**
+
 Trabalho Acadêmico da matéria Lima realizado em grupo para atribuir nota ao primeiro semestre do Curso Técnico de Desenvolvimento de Sistemas do SENAI.
 
 **Site:** [**https://luccazx12.github.io/silversburguer/silvers\_burguer/**](https://luccazx12.github.io/silversburguer/silvers_burguer/)
 
-**Atividade Solicitada por: Professor Danilo da Turma 1DM do SENAI.**
 
-# **Silvers Burguer**
 Desenvolvemos em conjunto o site estático de uma hamburgueria, utilizando do html, css e do javascript para tal.
 
 Com o auxilio da ferramenta Live Share, programamos o site todos em conjunto, em tempo real. Fizemos primeiramente a pagina inicial utilizando de inspiração layouts de outros sites e como parte do layout do site utilizamos o adobe color para compor a paleta de cores do Silvers Burguer.
